@@ -10,4 +10,9 @@ public class HomeController {
 	// public String hello() {
 	// return "index";
 	// }
+
+	@RequestMapping("/test")
+	public String test1() {
+		return "test/test";
+	}
 }
