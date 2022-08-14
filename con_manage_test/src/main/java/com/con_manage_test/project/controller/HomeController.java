@@ -11,8 +11,8 @@ public class HomeController {
 	// return "index";
 	// }
 
-	@RequestMapping("/test")
-	public String test1() {
-		return "test/test";
-	}
+	// @RequestMapping("/test")
+	// public String test1() {
+	// return "test/test";
+	// }
 }
